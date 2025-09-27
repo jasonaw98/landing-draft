@@ -18,11 +18,11 @@ export function Hero() {
           Fair, Secure, Transparent Rent Deposits
         </TextAnimate>
 
-        <p className="text-blue-200 font-semibold text-center max-w-2xl md:text-2xl mt-4 px-16 md:px-2">
+        <TextAnimate className="text-blue-200 font-semibold text-center max-w-2xl md:text-2xl mt-4 px-16 md:px-2">
           Decentralized escrow with URZ token and 4-of-6 multisig approval for
           tenants and landlords.
-        </p>
-        <button className="mt-8 px-10 py-4 bg-blue-600 text-white rounded-xl font-bold shadow-lg hover:bg-blue-700 hover:scale-105 transform transition duration-300 cursor-pointer">
+        </TextAnimate>
+        <button className="mt-8 px-10 py-4 bg-blue-600 text-white rounded-xl font-bold shadow-lg hover:bg-blue-700 hover:scale-105 transform transition duration-300 cursor-pointer animate-fade-in-up">
           Join Pilot
         </button>
       </div>

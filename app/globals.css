@@ -142,6 +142,21 @@
   }
 }
 
+@keyframes fade-in-down {
+  from {
+    transform: translateY(-300px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
 .animate-fade-in-up {
   animation: fade-in-up 0.5s ease-out;
+}
+
+.animate-fade-in-down {
+  animation: fade-in-down 0.5s ease-out;
 }

@@ -4,21 +4,27 @@ import { motion } from "motion/react";
 
 const video = [
   {
-    title: "UltraRentz Overview",
+    title: "TenantDepositing with UltraRentz: Tenant's First Steps",
     description:
-      " Take a look at the introduction of UltraRentz. This will give you a better understanding of how the platform works.",
+      "The step-by-step guide to paying your security deposit and securely nominating your signatories.",
     embed: "https://www.youtube.com/embed/dQw4w9WgXcQ",
   },
   {
-    title: "How to Use the Platform",
+    title: "TenantTracking Your Monetized Deposit: Watch Your Money Grow",
     description:
-      " Take a look at the introduction of UltraRentz. This will give you a better understanding of how the platform works.",
+      `How to view your deposit's growth and understand the concept of a "working" deposit.`,
     embed: "https://www.youtube.com/embed/dQw4w9WgXcQ",
   },
   {
-    title: "DAO Dispute Demo",
+    title: "TenantThe Fast Track to Funds: Requesting Your Deposit Return",
     description:
-      " Take a look at the introduction of UltraRentz. This will give you a better understanding of how the platform works.",
+      "he quick process for initiating your deposit return at the end of the lease and approving the release.",
+    embed: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+  },
+  {
+    title: "TenantTenant's Guide to URZ Token: What It Is and How to Get It",
+    description:
+      "A simple explanation of the URZ token and instructions on how to acquire it via a fiat-to-crypto gateway.",
     embed: "https://www.youtube.com/embed/dQw4w9WgXcQ",
   },
 ];

@@ -15,15 +15,14 @@ export function Hero() {
           once
           className="w-full text-white text-3xl md:text-5xl lg:text-6xl font-extrabold text-center"
         >
-          Fair, Secure, Transparent Rent Deposits
+          Protect. Monetise. Resolve Disputes in Days, Not Months.
         </TextAnimate>
 
         <TextAnimate className="text-blue-200 font-semibold text-center max-w-2xl md:text-2xl mt-4 px-16 md:px-2">
-          Decentralized escrow with URZ token and 4-of-6 multisig approval for
-          tenants and landlords.
+          Stop waiting 30+ days for your deposit return. Get fair, secure access to your funds, faster.
         </TextAnimate>
         <button className="mt-8 px-10 py-4 bg-blue-600 text-white rounded-xl font-bold shadow-lg hover:bg-blue-700 hover:scale-105 transform transition duration-300 cursor-pointer animate-fade-in-up">
-          Join Pilot
+          Start Protecting & Earning Now
         </button>
       </div>
     </div>

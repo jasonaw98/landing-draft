@@ -38,7 +38,7 @@ export default function HowItWorks() {
             >
               <div
                 key={idx}
-                className="rounded-2xl bg-gradient-to-br from-blue-900/10 to-blue-800/10 text-center p-6 shadow-inner bg-zinc-900/30 border border-zinc-700 hover:-translate-y-1.5 duration-300 hover:shadow-xl shadow-neutral-200/30"
+                className="rounded-2xl bg-gradient-to-br from-blue-900/10 to-blue-800/10 text-center p-6 shadow-inner bg-zinc-900/30 border border-zinc-700 hover:-translate-y-1.5 duration-300 hover:shadow-xl shadow-neutral-200/30 h-full"
               >
                 <div className="w-12 h-12 mx-auto flex items-center justify-center rounded-full bg-blue-100 text-blue-600 font-bold text-lg mb-4">
                   {idx + 1}

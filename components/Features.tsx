@@ -7,8 +7,9 @@ const features = [
       "Funds are held in multisig escrow to protect both tenants and landlords.",
   },
   {
-    title: "Flexible Payments",
-    description: "Pay deposits in URZ token or fiat via crypto swaps.",
+    title: "Monetized Deposits",
+    description:
+      "Deposits held in URZ token can automatically earn yield or staking rewards. Your deposit is working for you, not sitting idle.",
   },
   {
     title: "Transparent Process",
@@ -16,7 +17,8 @@ const features = [
   },
   {
     title: "Fast Dispute Resolution",
-    description: "DAO resolves disputes fairly and efficiently.",
+    description:
+      "Our DAO model guarantees a fair verdict in days, not the typical 30-90 day legal timeline. Funds released immediately upon approval, eliminating bank wait times.",
   },
 ];
 

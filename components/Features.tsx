@@ -7,7 +7,7 @@ const features = [
       "Funds are held in multisig escrow to protect both tenants and landlords.",
   },
   {
-    title: "Monetized Deposits",
+    title: "Monetise Deposits",
     description:
       "Deposits held in URZ token can automatically earn yield or staking rewards. Your deposit is working for you, not sitting idle.",
   },

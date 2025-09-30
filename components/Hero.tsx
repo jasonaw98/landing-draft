@@ -4,7 +4,7 @@ import { TextAnimate } from "./ui/text-animate";
 export function Hero() {
   return (
     <div
-      className="min-h-screen w-full rounded-md flex items-center justify-center antialiased relative overflow-hidden px-12"
+      className="min-h-screen w-full rounded-md flex items-center justify-center antialiased relative overflow-hidden px-4 md:px-12"
       id="home"
     >
       <Spotlight />
@@ -13,14 +13,9 @@ export function Hero() {
           UltraRentz
         </h1>
 
-        <TextAnimate
-          animation="blurInUp"
-          by="character"
-          once
-          className="w-full text-white text-3xl md:text-4xl lg:text-6xl font-extrabold text-center"
-        >
+        <div className="w-full text-white text-3xl md:text-4xl lg:text-6xl font-extrabold text-center animate-fade-in-up">
           Protect. Monetise. Resolve Disputes in Days, Not Months.
-        </TextAnimate>
+        </div>
 
         <TextAnimate className="text-blue-200 font-semibold text-center max-w-2xl md:text-2xl mt-4 px-16 md:px-2">
           Stop waiting 30+ days for your deposit return. Get fair, secure access
